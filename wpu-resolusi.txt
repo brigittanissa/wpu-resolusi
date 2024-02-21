@@ -2,3 +2,4 @@ wpu resoulusi
 -konsisten belajar IT
 -membuat website
 -belajar back end
+-belajar phyton
